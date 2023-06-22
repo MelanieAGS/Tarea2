@@ -13,6 +13,7 @@ RUN projector install 'PhpStorm 2021.1' --no-auto-run
 # Install ddev
 RUN brew update && brew install drud/ddev/ddev && mkcert -install
 
+
 ###
 ### Initiate a rebuild of Gitpod's image by updating this comment #1
 ###
