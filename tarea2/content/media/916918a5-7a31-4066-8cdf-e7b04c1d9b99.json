@@ -1,0 +1,98 @@
+{
+    "_links": {
+        "self": {
+            "href": "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/abico-camur-cogo-incassum-iustum-tego-usitas-uxor.?_format=hal_json"
+        },
+        "type": {
+            "href": "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/rest\/type\/media\/image"
+        },
+        "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/rest\/relation\/media\/image\/revision_user": [
+            {
+                "href": "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/user\/1?_format=hal_json"
+            }
+        ],
+        "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/rest\/relation\/media\/image\/field_media_image": [
+            {
+                "href": "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/sites\/default\/files\/2023-06\/generateImage_j49VgA.gif",
+                "lang": "en"
+            }
+        ]
+    },
+    "mid": [
+        {
+            "value": 2
+        }
+    ],
+    "uuid": [
+        {
+            "value": "916918a5-7a31-4066-8cdf-e7b04c1d9b99"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en",
+            "lang": "en"
+        }
+    ],
+    "bundle": [
+        {
+            "target_id": "image"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2023-06-19T04:59:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/rest\/relation\/media\/image\/revision_user": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "40db55fc-ce89-4879-8605-7af4d3b5827c"
+                    }
+                ]
+            }
+        ],
+        "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/rest\/relation\/media\/image\/field_media_image": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/sites\/default\/files\/2023-06\/generateImage_j49VgA.gif"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/rest\/type\/file\/file"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "5aea3f43-d3bb-44da-9ab9-cc0da8d670da"
+                    }
+                ],
+                "lang": "en"
+            }
+        ]
+    },
+    "revision_log_message": [
+        {
+            "value": "Dolor gilvus lenis luctus minim occuro odio quidne tation. Cogo ex nutus sagaciter tum. Causa humo inhibeo laoreet meus. Exputo jugis neo paulatim praesent suscipere. Jugis metuo uxor. Acsi duis elit exputo humo os si suscipit vindico.\n\nMos ratis suscipere zelus. Antehabeo at esse vereor. Ad appellatio commoveo dolor luptatum occuro vicis. Commodo jugis torqueo. Duis incassum laoreet molior vindico volutpat. Huic immitto quis. Dolus huic ideo iustum persto quadrum ut valde venio vindico. Nibh nimis tum. Brevitas damnum dolor nutus proprius suscipere. Adipiscing cogo nunc pneum suscipit. Aptent enim iaceo inhibeo iustum metuo olim rusticus vel vindico.\n\nMinim neque ratis. Euismod illum verto. Appellatio dolus enim incassum interdico melior tego validus vulpes. Autem mos persto ratis sino tum typicus validus voco. Comis neo neque plaga quia si ullamcorper virtus.\n\nComis nulla nunc premo quidne. Abico duis jugis loquor mauris pertineo tation uxor. Abico huic jumentum patria praemitto. Paratus praesent quae. Abdo abigo augue esca laoreet meus plaga refero sed. Antehabeo euismod hendrerit iriure nimis nisl suscipere te ulciscor vindico. Ad cui dolus erat fere laoreet quidem te. Distineo gravis humo iusto lucidus molior ratis similis ut virtus.\n\nAbbas augue ex incassum luptatum sagaciter uxor. Conventio dignissim elit eum ex illum iusto. Abico antehabeo blandit commodo neo proprius validus volutpat ymo. Aptent dignissim dolus erat exputo hendrerit ideo nostrud pneum. Aptent laoreet paratus ratis scisco. Eum facilisis imputo magna persto.\n\nHumo ille imputo luctus refero te turpis vero. Appellatio augue erat facilisi gilvus qui sudo vicis. Laoreet meus praemitto premo ratis turpis utrum verto. Abbas distineo dolore eligo patria pecus quae voco.\n\nAdipiscing at bene luctus macto tincidunt. Consequat cui erat esse hos iaceo nimis nulla pagus secundum. Augue eum luctus minim nutus populus qui si te zelus. Adipiscing commodo meus modo praesent probo venio. Abdo gemino wisi.\n\nBlandit consectetuer jumentum magna nimis pagus quia similis suscipit zelus. Camur nulla olim refero. Appellatio exerci luctus nunc. Causa commoveo mos verto. Commodo decet distineo gilvus inhibeo modo paulatim typicus uxor. Accumsan defui esca odio suscipit utrum wisi.\n\nAccumsan aliquip consectetuer hos ibidem roto. Elit et euismod meus paratus torqueo. Abdo causa consequat feugiat macto obruo quia sino velit. Exputo pneum probo vereor.\n\nEligo fere ludus. Damnum eligo si. Enim quadrum tum. Brevitas hos huic neque tation turpis. Abigo imputo loquor minim nibh olim pneum valetudo. Abbas abluo euismod nisl odio suscipit usitas vereor.\n\nEros nimis vulpes. Accumsan genitus interdico melior minim nisl pertineo rusticus vero. Abdo causa gravis mauris nimis suscipit torqueo. Pertineo sino sudo valde venio. Commodo conventio nostrud singularis. Eum iaceo immitto jumentum mauris persto tum.\n\nAt caecus letalis nunc wisi. Capto gravis iustum nibh probo tamen. Antehabeo bene ex inhibeo iusto jugis os quadrum saepius vindico. Gilvus interdico luctus nulla qui uxor. Antehabeo diam mauris populus quadrum saepius sagaciter. Adipiscing cui elit et feugiat mauris odio os velit vulpes. Cogo nostrud si. Gilvus loquor neo nimis tum vindico volutpat. Exerci nostrud oppeto saluto scisco suscipit usitas.\n\n"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/abico-camur-cogo-incassum-iustum-tego-usitas-uxor.",
+            "pid": 2,
+            "langcode": "en",
+            "lang": "en"
+        }
+    ]
+}

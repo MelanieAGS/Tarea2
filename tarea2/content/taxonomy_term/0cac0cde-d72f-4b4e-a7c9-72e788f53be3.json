@@ -1,0 +1,96 @@
+{
+    "_links": {
+        "self": {
+            "href": "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/eligo-enim-illum-macto-paulatim-similis.?_format=hal_json"
+        },
+        "type": {
+            "href": "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/rest\/type\/taxonomy_term\/tags"
+        },
+        "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/rest\/relation\/taxonomy_term\/tags\/revision_user": [
+            {
+                "href": "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/user\/1?_format=hal_json"
+            }
+        ],
+        "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/rest\/relation\/taxonomy_term\/tags\/parent": [
+            {
+                "href": "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/adipiscing-fere-haero-jumentum-luptatum-neo-proprius-quadrum.?_format=hal_json"
+            }
+        ]
+    },
+    "tid": [
+        {
+            "value": 2
+        }
+    ],
+    "uuid": [
+        {
+            "value": "0cac0cde-d72f-4b4e-a7c9-72e788f53be3"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "vid": [
+        {
+            "target_id": "tags"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2023-02-06T19:49:06+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/rest\/relation\/taxonomy_term\/tags\/revision_user": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "40db55fc-ce89-4879-8605-7af4d3b5827c"
+                    }
+                ]
+            }
+        ],
+        "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/rest\/relation\/taxonomy_term\/tags\/parent": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/adipiscing-fere-haero-jumentum-luptatum-neo-proprius-quadrum.?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/rest\/type\/taxonomy_term\/tags"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "e53858c8-fedb-4bb5-a293-756f821490fa"
+                    }
+                ]
+            }
+        ]
+    },
+    "revision_log_message": [
+        {
+            "value": "Diam in iriure luctus molior neque. Abbas aliquip blandit duis hendrerit luctus si typicus ymo. Abigo genitus ideo saluto. Blandit humo macto patria praemitto torqueo usitas virtus. Acsi antehabeo feugiat iriure. Feugiat hendrerit ille luptatum mauris uxor volutpat zelus. At bene cui distineo neo nobis roto secundum suscipere turpis.\n\nAbdo capto defui exputo veniam. Camur importunus obruo tum ut. Abdo aliquip autem consequat ut. Erat eu quidne refero sit valetudo validus velit voco. Damnum magna mauris persto. Augue luctus singularis voco vulputate. Caecus facilisi importunus minim molior tamen utinam. Brevitas haero melior neque occuro probo.\n\nIbidem ideo occuro paulatim vel zelus. Diam importunus luptatum neo pneum saepius secundum sino volutpat wisi. Capto dolor lobortis minim verto. Caecus ea ex pertineo quidem singularis ut uxor. Aliquam augue commodo eligo praesent torqueo. Blandit camur damnum defui dignissim lucidus refero sagaciter.\n\nAbico aliquam consectetuer ea hos immitto plaga secundum. Appellatio commodo jumentum typicus ulciscor virtus. Esse molior valetudo. Exerci iusto quidem. Immitto refoveo saepius utinam. Ideo lucidus populus. Abdo facilisis metuo patria suscipere. Amet consequat dignissim enim valde vel. Magna metuo ulciscor venio. Hendrerit lucidus neo nulla. Acsi cui enim persto sagaciter validus voco.\n\nEnim in laoreet paulatim. Et hos huic imputo jus premo quadrum qui quidne. Cogo modo nibh pala populus roto sed verto. Augue importunus iriure loquor paratus ratis ut uxor. Dolus in loquor luctus paratus quidne ratis singularis. At hos mos.\n\nAbluo esca genitus gravis lenis nutus pala proprius. Abigo feugiat incassum molior olim quadrum. Genitus importunus iusto lenis refero refoveo typicus ulciscor. Abluo euismod paulatim probo quidem si te utinam. Consequat dolor fere occuro pagus probo refoveo verto. Et praesent qui ulciscor. Abigo illum modo olim plaga voco vulpes.\n\nAliquam gemino valetudo. Aliquam augue enim neque nutus quae. Accumsan importunus quia quidem saluto singularis zelus. Dolus jus macto occuro qui sed. Antehabeo consequat dolor facilisis jumentum mauris quadrum tum. Abico amet eum gilvus lucidus mauris meus modo zelus. Jugis natu paulatim. Ad mos plaga tation tum voco. Dolor saluto venio. Eum jugis metuo nostrud persto valetudo vulpes.\n\nDuis gravis laoreet nimis tation voco ymo. Abigo acsi decet minim nibh nunc obruo. Quae suscipit usitas. Aliquip laoreet nobis vicis. Enim jumentum lobortis nimis pertineo sed suscipit tum zelus.\n\nCamur consectetuer natu nobis saepius. Autem decet enim interdico quibus turpis ut valetudo ymo. Exerci incassum luptatum virtus. Blandit elit gilvus ludus probo. Appellatio autem damnum nibh paulatim quidne utinam. Abico accumsan consectetuer erat feugiat modo verto. Accumsan commoveo scisco ullamcorper vicis volutpat. Conventio damnum gravis occuro olim quibus utrum verto zelus. Consequat et importunus luptatum velit.\n\nAbico minim tation. Gilvus lucidus metuo meus nisl pecus quae ratis utinam valetudo. Abigo acsi autem sit. Aliquip gilvus minim quae saepius typicus. Abdo appellatio elit eum in oppeto premo ratis tincidunt veniam. Humo ibidem si sudo usitas vero.\n\nAbigo elit fere jugis. Dolore facilisi haero. Defui et humo interdico molior pagus paulatim saluto similis turpis. Brevitas euismod macto plaga sudo torqueo. Adipiscing at enim esca incassum interdico mauris modo pecus. Decet tum usitas uxor valde validus. Ex fere iusto laoreet molior nulla. Abbas appellatio defui imputo quidem secundum sino ulciscor. Gilvus immitto inhibeo lobortis magna oppeto refero.\n\nAd letalis occuro pneum praemitto praesent scisco vero. Blandit eum facilisis similis tamen uxor. Aliquam brevitas ea inhibeo interdico letalis similis suscipere utinam veniam.\n\n"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/eligo-enim-illum-macto-paulatim-similis.",
+            "pid": 5,
+            "langcode": "und",
+            "lang": "und"
+        }
+    ]
+}

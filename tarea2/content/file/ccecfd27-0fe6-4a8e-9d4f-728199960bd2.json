@@ -1,0 +1,87 @@
+{
+    "_links": {
+        "self": {
+            "href": "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/sites\/default\/files\/2023-06\/Dise%C3%B1o%20gr%C3%A1fico%20ficha.txt"
+        },
+        "type": {
+            "href": "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/rest\/type\/file\/file"
+        },
+        "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/rest\/relation\/file\/file\/uid": [
+            {
+                "href": "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/user\/1?_format=hal_json"
+            }
+        ]
+    },
+    "fid": [
+        {
+            "value": 28
+        }
+    ],
+    "uuid": [
+        {
+            "value": "ccecfd27-0fe6-4a8e-9d4f-728199960bd2"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "_embedded": {
+        "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/rest\/relation\/file\/file\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "40db55fc-ce89-4879-8605-7af4d3b5827c"
+                    }
+                ]
+            }
+        ]
+    },
+    "filename": [
+        {
+            "value": "Dise\u00f1o gr\u00e1fico ficha.txt"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2023-06\/Dise\u00f1o gr\u00e1fico ficha.txt",
+            "url": "\/sites\/default\/files\/2023-06\/Dise%C3%B1o%20gr%C3%A1fico%20ficha.txt"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "text\/plain"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 17
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-06-22T12:29:26+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-06-22T12:31:50+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

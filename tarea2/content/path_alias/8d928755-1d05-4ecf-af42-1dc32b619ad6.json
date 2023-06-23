@@ -1,0 +1,40 @@
+{
+    "_links": {
+        "self": {
+            "href": ""
+        },
+        "type": {
+            "href": "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/rest\/type\/path_alias\/path_alias"
+        }
+    },
+    "id": [
+        {
+            "value": 4
+        }
+    ],
+    "uuid": [
+        {
+            "value": "8d928755-1d05-4ecf-af42-1dc32b619ad6"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/taxonomy\/term\/1"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/adipiscing-fere-haero-jumentum-luptatum-neo-proprius-quadrum."
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

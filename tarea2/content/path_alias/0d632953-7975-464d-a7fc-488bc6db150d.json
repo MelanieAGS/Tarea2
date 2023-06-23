@@ -1,0 +1,40 @@
+{
+    "_links": {
+        "self": {
+            "href": ""
+        },
+        "type": {
+            "href": "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/rest\/type\/path_alias\/path_alias"
+        }
+    },
+    "id": [
+        {
+            "value": 2
+        }
+    ],
+    "uuid": [
+        {
+            "value": "0d632953-7975-464d-a7fc-488bc6db150d"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/media\/2\/edit"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/abico-camur-cogo-incassum-iustum-tego-usitas-uxor."
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

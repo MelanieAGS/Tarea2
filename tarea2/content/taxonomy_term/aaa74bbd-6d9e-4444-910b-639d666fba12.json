@@ -1,0 +1,96 @@
+{
+    "_links": {
+        "self": {
+            "href": "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/esse-natu-odio-pagus-scisco.?_format=hal_json"
+        },
+        "type": {
+            "href": "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/rest\/type\/taxonomy_term\/tags"
+        },
+        "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/rest\/relation\/taxonomy_term\/tags\/revision_user": [
+            {
+                "href": "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/user\/1?_format=hal_json"
+            }
+        ],
+        "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/rest\/relation\/taxonomy_term\/tags\/parent": [
+            {
+                "href": "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/abbas-causa-genitus.?_format=hal_json"
+            }
+        ]
+    },
+    "tid": [
+        {
+            "value": 4
+        }
+    ],
+    "uuid": [
+        {
+            "value": "aaa74bbd-6d9e-4444-910b-639d666fba12"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en",
+            "lang": "en"
+        }
+    ],
+    "vid": [
+        {
+            "target_id": "tags"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2023-04-21T00:16:13+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/rest\/relation\/taxonomy_term\/tags\/revision_user": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "40db55fc-ce89-4879-8605-7af4d3b5827c"
+                    }
+                ]
+            }
+        ],
+        "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/rest\/relation\/taxonomy_term\/tags\/parent": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/abbas-causa-genitus.?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/rest\/type\/taxonomy_term\/tags"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "483f2699-79ad-4d26-b836-499f5d942728"
+                    }
+                ]
+            }
+        ]
+    },
+    "revision_log_message": [
+        {
+            "value": "Incassum nutus sit tum ut vereor. Commodo jus utrum vulputate wisi. Aptent commoveo dignissim ludus roto tincidunt utinam vindico. Abluo acsi adipiscing antehabeo aptent mos similis. Autem eu immitto minim neque nobis refero te.\n\nEros genitus minim saepius similis vicis. Haero hos immitto luctus odio os pertineo scisco sino te. Abigo adipiscing eligo incassum nutus tum vereor verto virtus.\n\nBrevitas torqueo ulciscor vindico. Defui elit euismod huic luptatum nimis pagus si. Accumsan ea quadrum tamen voco. Appellatio diam dolus modo nostrud quis ratis sit suscipit utrum. Ex natu ullamcorper. Cui facilisi singularis utinam.\n\nAd fere probo sudo vero. Fere imputo pertineo. Capto defui gemino jus natu nimis premo refoveo sed sino. Ad caecus conventio iaceo letalis natu obruo patria. Abdo consectetuer consequat jus vel.\n\nEt huic nulla plaga tation zelus. Pala pertineo te volutpat vulpes. Aptent commoveo eligo gravis nobis praemitto quadrum. Aptent brevitas causa nutus sed sino tincidunt utrum vulputate.\n\nBlandit cogo defui letalis luctus metuo odio velit. Cui nimis nutus paratus. Lucidus nimis persto quia quidem utinam. Aliquip mos patria paulatim quidne sino.\n\nAd appellatio bene hendrerit imputo neque pertineo populus quadrum sed. Abdo consequat damnum dignissim haero nimis obruo rusticus ymo. Autem in iusto lucidus occuro premo secundum tamen ulciscor venio. Dolus jugis luctus natu praesent.\n\nExerci hendrerit nunc. Commodo consequat decet enim immitto jumentum nimis praesent ullamcorper. Distineo duis letalis pecus sed utrum vindico. Blandit dolore valde. Abigo amet iusto pagus populus quae volutpat.\n\nAbico blandit imputo iriure ludus quidne utinam verto virtus vulputate. Commodo decet incassum lobortis paratus quis secundum suscipere te torqueo. Adipiscing iaceo ibidem jumentum nimis nutus praemitto premo torqueo. Antehabeo causa interdico letalis os probo sino. Abico adipiscing antehabeo at nibh nimis refoveo uxor.\n\nAbdo ad distineo dolus lucidus probo. Aliquip incassum metuo nisl premo saepius saluto vulpes zelus. Jus qui secundum. Ad exerci utrum. Dolus immitto valetudo. Commodo commoveo elit enim imputo incassum saepius wisi. Accumsan blandit importunus quibus typicus. Eligo macto sagaciter usitas wisi.\n\nAbigo abluo dignissim hendrerit ille letalis quadrum utinam. Abico decet ille mos pertineo quidem refero tincidunt validus voco. Ad iusto obruo pala secundum. Eligo qui secundum. Caecus jus tego. Consectetuer eum fere laoreet luctus nulla sit suscipere te vicis. Abbas aptent cogo distineo eros neo pertineo premo suscipere torqueo. Capto cogo quibus vicis virtus.\n\nConsequat erat fere in interdico nimis obruo quis venio. Brevitas immitto nimis refero valetudo. Hos humo jugis neque obruo pecus persto sed tation ymo. Amet brevitas consequat. Ad antehabeo in os pala rusticus scisco te zelus. Abico comis commodo consectetuer gravis jumentum plaga suscipit. Causa defui et hos jugis ulciscor.\n\n"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/esse-natu-odio-pagus-scisco.",
+            "pid": 7,
+            "langcode": "en",
+            "lang": "en"
+        }
+    ]
+}

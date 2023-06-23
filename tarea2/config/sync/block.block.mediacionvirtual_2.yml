@@ -1,0 +1,29 @@
+uuid: ec678392-7ddc-4f82-9f90-c24a0d5db975
+langcode: en
+status: true
+dependencies:
+  config:
+    - system.menu.mediacion-virtual
+  module:
+    - system
+  theme:
+    - olivero
+id: mediacionvirtual_2
+theme: olivero
+region: sidebar
+weight: 0
+provider: null
+plugin: 'system_menu_block:mediacion-virtual'
+settings:
+  id: 'system_menu_block:mediacion-virtual'
+  label: 'Mediación Virtual'
+  label_display: '0'
+  provider: system
+  level: 1
+  depth: 0
+  expand_all_items: false
+visibility:
+  request_path:
+    id: request_path
+    negate: false
+    pages: /node/20

@@ -1,0 +1,223 @@
+{
+    "_links": {
+        "self": {
+            "href": "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/node\/23?_format=hal_json"
+        },
+        "type": {
+            "href": "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/rest\/type\/node\/curso"
+        },
+        "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/rest\/relation\/node\/curso\/revision_uid": [
+            {
+                "href": "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/user\/1?_format=hal_json"
+            }
+        ],
+        "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/rest\/relation\/node\/curso\/uid": [
+            {
+                "href": "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/user\/1?_format=hal_json",
+                "lang": "en"
+            }
+        ],
+        "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/rest\/relation\/node\/curso\/field_carreras_que_pertenece": [
+            {
+                "href": "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/node\/22?_format=hal_json"
+            }
+        ],
+        "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/rest\/relation\/node\/curso\/field_categoria": [
+            {
+                "href": "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/taxonomy\/term\/9?_format=hal_json"
+            }
+        ],
+        "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/rest\/relation\/node\/curso\/field_programa": [
+            {
+                "href": "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/sites\/default\/files\/2023-06\/Dise%C3%B1o%20gr%C3%A1fico%20plan.txt"
+            }
+        ]
+    },
+    "nid": [
+        {
+            "value": 23
+        }
+    ],
+    "uuid": [
+        {
+            "value": "402b6a15-0b33-44cd-845c-4e8b8e72aa52"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en",
+            "lang": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "curso"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-06-22T12:32:42+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/rest\/relation\/node\/curso\/revision_uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "40db55fc-ce89-4879-8605-7af4d3b5827c"
+                    }
+                ]
+            }
+        ],
+        "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/rest\/relation\/node\/curso\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "40db55fc-ce89-4879-8605-7af4d3b5827c"
+                    }
+                ],
+                "lang": "en"
+            }
+        ],
+        "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/rest\/relation\/node\/curso\/field_carreras_que_pertenece": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/node\/22?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/rest\/type\/node\/carrera"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "51ca5853-3155-445c-8d0c-5d0f9dda1cf0"
+                    }
+                ]
+            }
+        ],
+        "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/rest\/relation\/node\/curso\/field_categoria": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/taxonomy\/term\/9?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/rest\/type\/taxonomy_term\/cursos"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "a3a06889-0883-4926-83fb-49c981b34fde"
+                    }
+                ]
+            }
+        ],
+        "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/rest\/relation\/node\/curso\/field_programa": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/sites\/default\/files\/2023-06\/Dise%C3%B1o%20gr%C3%A1fico%20plan.txt"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/rest\/type\/file\/file"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "060b5f7f-9a1d-42a6-b59a-5a0d8db36695"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "title": [
+        {
+            "value": "Dise\u00f1o Gr\u00e1fico 1",
+            "lang": "en"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-06-22T12:32:32+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-06-22T12:32:42+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "sticky": [
+        {
+            "value": false,
+            "lang": "en"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en",
+            "lang": "en"
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>El curso de Dise\u00f1o Gr\u00e1fico ense\u00f1a habilidades creativas y t\u00e9cnicas para comunicar visualmente a trav\u00e9s de diferentes medios, como logotipos, materiales de marketing y interfaces de usuario. Los estudiantes aprenden principios de dise\u00f1o, herramientas digitales y conceptos \u00e9ticos y legales.<\/p>",
+            "format": "basic_html",
+            "processed": "<p>El curso de Dise\u00f1o Gr\u00e1fico ense\u00f1a habilidades creativas y t\u00e9cnicas para comunicar visualmente a trav\u00e9s de diferentes medios, como logotipos, materiales de marketing y interfaces de usuario. Los estudiantes aprenden principios de dise\u00f1o, herramientas digitales y conceptos \u00e9ticos y legales.<\/p>",
+            "summary": "",
+            "lang": "en"
+        }
+    ],
+    "field_codigo_del_curso": [
+        {
+            "value": "AP- 6001"
+        }
+    ]
+}

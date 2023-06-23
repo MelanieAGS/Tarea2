@@ -1,0 +1,23 @@
+uuid: 601cb357-8360-4e8d-b5f6-6d4f144d2b3d
+langcode: en
+status: true
+dependencies:
+  module:
+    - file
+    - node
+id: node.field_ficha_profesional
+field_name: field_ficha_profesional
+entity_type: node
+type: file
+settings:
+  target_type: file
+  display_field: true
+  display_default: false
+  uri_scheme: public
+module: file
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

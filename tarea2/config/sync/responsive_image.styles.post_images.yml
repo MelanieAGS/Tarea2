@@ -1,0 +1,31 @@
+uuid: 050c56f0-c7f6-4502-ad4b-9a0325f336d5
+langcode: en
+status: true
+dependencies:
+  config:
+    - image.style.400x400
+    - image.style.max_2600x2600
+    - image.style.post_images
+    - image.style.thumbnail
+  theme:
+    - olivero
+id: post_images
+label: 'Post images'
+image_style_mappings:
+  -
+    image_mapping_type: image_style
+    image_mapping: max_2600x2600
+    breakpoint_id: olivero.grid-max
+    multiplier: 1x
+  -
+    image_mapping_type: image_style
+    image_mapping: post_images
+    breakpoint_id: olivero.nav
+    multiplier: 1x
+  -
+    image_mapping_type: image_style
+    image_mapping: 400x400
+    breakpoint_id: olivero.sm
+    multiplier: 1x
+breakpoint_group: olivero
+fallback_image_style: thumbnail

@@ -1,0 +1,32 @@
+uuid: 58508163-d3bb-45d8-850d-7c3a6d3634ba
+langcode: en
+status: true
+dependencies:
+  config:
+    - views.view.cursos
+  module:
+    - node
+    - views
+  theme:
+    - olivero
+id: views_block__cursos_block_1
+theme: olivero
+region: sidebar
+weight: 0
+provider: null
+plugin: 'views_block:cursos-block_1'
+settings:
+  id: 'views_block:cursos-block_1'
+  label: 'Cursos Recientes'
+  label_display: '0'
+  provider: views
+  views_label: 'Cursos Recientes'
+  items_per_page: '3'
+visibility:
+  'entity_bundle:node':
+    id: 'entity_bundle:node'
+    negate: false
+    context_mapping:
+      node: '@node.node_route_context:node'
+    bundles:
+      curso: curso

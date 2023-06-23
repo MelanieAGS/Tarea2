@@ -1,0 +1,15 @@
+uuid: 15ef75d9-dc6e-4be8-8d24-820f77aea69a
+langcode: en
+status: true
+dependencies: {  }
+name: 400x400
+label: 400x400
+effects:
+  b825078b-6d3a-4227-8903-6c30ef19619f:
+    uuid: b825078b-6d3a-4227-8903-6c30ef19619f
+    id: image_scale_and_crop
+    weight: 1
+    data:
+      width: 400
+      height: 400
+      anchor: left-top

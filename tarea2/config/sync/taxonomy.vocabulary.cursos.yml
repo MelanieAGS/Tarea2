@@ -1,0 +1,8 @@
+uuid: c59f701f-9060-4ba6-b83e-e65c05d5dee2
+langcode: en
+status: true
+dependencies: {  }
+name: Cursos
+vid: cursos
+description: 'Tipos de cursos.'
+weight: 0

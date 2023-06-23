@@ -1,0 +1,12 @@
+uuid: 2c3a1e3d-823b-4345-aea4-27f39e165ef6
+langcode: en
+status: true
+dependencies: {  }
+id: suggestions
+label: Suggestions
+recipients:
+  - melanie.gamboasalas@gmail.com
+reply: ''
+weight: 0
+message: 'Thank you for visiting our website. We appreciate your time and interest.'
+redirect: ''

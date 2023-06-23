@@ -1,0 +1,15 @@
+uuid: 02a111f3-445c-49a8-9a95-23bf81c7e71d
+langcode: en
+status: true
+dependencies: {  }
+name: post_images
+label: 1200x750
+effects:
+  a6194307-f83a-4a24-9bea-dc9f2980c511:
+    uuid: a6194307-f83a-4a24-9bea-dc9f2980c511
+    id: image_scale_and_crop
+    weight: 1
+    data:
+      width: 1200
+      height: 750
+      anchor: right-bottom

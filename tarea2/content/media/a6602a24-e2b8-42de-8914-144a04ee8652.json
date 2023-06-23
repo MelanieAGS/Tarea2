@@ -1,0 +1,166 @@
+{
+    "_links": {
+        "self": {
+            "href": "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/abico-augue-autem-cui-defui-dolor-jus-quis-utrum-vulputate.?_format=hal_json"
+        },
+        "type": {
+            "href": "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/rest\/type\/media\/remote_video"
+        },
+        "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/rest\/relation\/media\/remote_video\/revision_user": [
+            {
+                "href": "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/user\/1?_format=hal_json"
+            }
+        ],
+        "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/rest\/relation\/media\/remote_video\/uid": [
+            {
+                "href": "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/user\/1?_format=hal_json",
+                "lang": "en"
+            }
+        ],
+        "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/rest\/relation\/media\/remote_video\/thumbnail": [
+            {
+                "href": "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/sites\/default\/files\/media-icons\/generic\/video.png",
+                "lang": "en"
+            }
+        ]
+    },
+    "mid": [
+        {
+            "value": 3
+        }
+    ],
+    "uuid": [
+        {
+            "value": "a6602a24-e2b8-42de-8914-144a04ee8652"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en",
+            "lang": "en"
+        }
+    ],
+    "bundle": [
+        {
+            "target_id": "remote_video"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2023-06-19T04:59:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/rest\/relation\/media\/remote_video\/revision_user": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "40db55fc-ce89-4879-8605-7af4d3b5827c"
+                    }
+                ]
+            }
+        ],
+        "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/rest\/relation\/media\/remote_video\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "40db55fc-ce89-4879-8605-7af4d3b5827c"
+                    }
+                ],
+                "lang": "en"
+            }
+        ],
+        "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/rest\/relation\/media\/remote_video\/thumbnail": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/sites\/default\/files\/media-icons\/generic\/video.png"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/rest\/type\/file\/file"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "d091fc7a-f561-4c93-822d-1ce9f687dc98"
+                    }
+                ],
+                "lang": "en"
+            }
+        ]
+    },
+    "revision_log_message": [
+        {
+            "value": "Cui esca exputo imputo iriure ullamcorper ut verto voco. Exputo nulla pneum saluto singularis ut. Capto esse ex exputo venio vulpes. Abigo comis consectetuer iriure jumentum macto quidne tation. Blandit erat euismod iusto oppeto persto pertineo saluto suscipere veniam. Consequat genitus ludus. Comis ea ideo interdico lucidus natu tation vero volutpat ymo. Abluo decet hos incassum melior modo nunc pala.\n\nBene consectetuer haero lucidus quadrum vulputate. Abdo consequat praemitto verto. Euismod facilisis immitto iriure paratus quia quidne tamen verto vindico. Appellatio comis eros huic magna nimis nostrud pagus refero saepius. Loquor obruo pertineo praemitto scisco volutpat. Abigo capto ludus nostrud. Amet erat modo neque tincidunt uxor wisi. Abigo dolus eum nunc odio sino ullamcorper utrum.\n\nAdipiscing cui exputo jugis meus pala vulputate. Appellatio enim gravis interdico odio patria. Autem blandit commoveo gravis jugis roto sudo. Abdo ideo ille jus loquor nibh nunc pertineo torqueo utinam. Enim facilisis humo iusto neo praesent wisi. Ea pagus pertineo sagaciter scisco ymo. Accumsan amet imputo nimis sudo tum. Causa et quae sino tincidunt.\n\nDignissim jus mauris melior. Abdo immitto jugis natu nimis os pagus tamen verto vindico. Cui iriure olim paulatim. Antehabeo huic minim scisco valetudo.\n\nMauris metuo voco. Brevitas eum jugis mos nutus quadrum usitas virtus. Abico eum jugis luctus premo. Consequat duis ibidem ludus meus neque olim plaga proprius suscipere. Abbas autem fere genitus huic neque odio quae roto valde. Aptent obruo refero similis utrum. Brevitas eros gemino lucidus luptatum nostrud. Eu iusto jugis saluto vereor. Appellatio enim huic luptatum macto olim paulatim praemitto ratis sudo.\n\nEu gilvus haero. Dolor eligo erat rusticus tincidunt. Amet esca laoreet neque quae sit. At commodo defui diam dolor ea eligo iaceo metuo virtus. Autem consectetuer haero hendrerit luctus ludus meus paratus scisco vero. Conventio cui nimis pagus premo probo quae quis voco.\n\nBrevitas erat feugiat loquor neque ratis tation. Brevitas comis eum luctus modo usitas vindico. Brevitas capto comis iriure jumentum odio pala tation usitas. Decet genitus pala. Amet eligo esse huic ibidem praemitto quia rusticus usitas venio. Dolus enim nimis scisco verto. Capto dolor enim fere hendrerit interdico oppeto quibus sudo valetudo. Dolor eros exerci lobortis quis saepius sed tation vereor zelus.\n\nExerci gilvus hendrerit modo roto sudo vicis voco. Appellatio cui dignissim hendrerit iriure luctus quibus refoveo veniam. Aliquip defui eligo feugiat ideo sagaciter sit vulpes. Esca et gilvus iustum lenis luctus sit ulciscor. Elit importunus mos populus rusticus si suscipit. Eu jus lenis macto pneum refero. Accumsan distineo ideo premo tamen tego validus verto. Camur lobortis macto pagus usitas uxor vel vulputate.\n\nAbluo acsi causa damnum gravis humo mos neque quadrum roto. Decet genitus nobis vereor. Defui interdico iustum pagus quia torqueo. Capto esca et eum haero illum. Duis ea inhibeo probo. Consectetuer erat nimis saepius volutpat. Facilisis letalis volutpat. Abigo minim natu nutus pecus populus rusticus. Dolor eum haero huic mauris occuro oppeto paratus quadrum.\n\nEros ibidem incassum natu obruo suscipere turpis ulciscor usitas. Abico defui duis eros eu melior saepius tincidunt. Appellatio aptent gilvus ideo inhibeo praesent quae ut uxor vel. Abdo augue dolore euismod exputo facilisi quia quidem quidne vel. Amet at caecus ibidem neo olim pecus si. Brevitas capto causa meus nimis nisl nulla verto.\n\nAdipiscing antehabeo commoveo erat ideo nutus quadrum sagaciter saluto. Abbas bene dignissim eum iustum jugis saluto tation usitas veniam. Abluo commodo exerci minim nutus odio premo quis typicus utinam. Magna metuo mos pala sagaciter sit vicis. Accumsan consectetuer inhibeo interdico pala torqueo vereor. Scisco tincidunt usitas utrum. Abluo causa erat loquor quibus vel. Aliquip conventio hendrerit letalis melior si vero volutpat.\n\nAmet bene interdico iriure letalis lobortis paulatim similis turpis wisi. Abdo adipiscing distineo ea exputo ludus. Abdo aliquam elit loquor neo paulatim pertineo plaga qui sit. Augue elit eum lenis patria si. Acsi luptatum sino. Exerci importunus paulatim sino tincidunt. Esse exputo facilisi obruo refoveo. Blandit damnum dolore facilisis. Acsi conventio dolor eros ex letalis luctus saepius turpis wisi.\n\n"
+        }
+    ],
+    "status": [
+        {
+            "value": false,
+            "lang": "en"
+        }
+    ],
+    "name": [
+        {
+            "value": "slipadahimebrepepaphichivaduclacifre",
+            "lang": "en"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-06-04T23:39:38+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-11-28T23:25:10+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/abico-augue-autem-cui-defui-dolor-jus-quis-utrum-vulputate.",
+            "pid": 3,
+            "langcode": "en",
+            "lang": "en"
+        }
+    ],
+    "field_media_oembed_video": [
+        {
+            "value": "cresutrudrobreswitrunucruwoclehorovobrathowaclisethomawritistimicaligisweswuwehachakatrathiuatahabromiluclidrauahago",
+            "lang": "en"
+        }
+    ]
+}

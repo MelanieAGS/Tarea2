@@ -1,0 +1,80 @@
+{
+    "_links": {
+        "self": {
+            "href": "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/abbas-causa-genitus.?_format=hal_json"
+        },
+        "type": {
+            "href": "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/rest\/type\/taxonomy_term\/tags"
+        },
+        "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/rest\/relation\/taxonomy_term\/tags\/revision_user": [
+            {
+                "href": "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/user\/0?_format=hal_json"
+            }
+        ],
+        "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/rest\/relation\/taxonomy_term\/tags\/parent": [
+            null
+        ]
+    },
+    "tid": [
+        {
+            "value": 3
+        }
+    ],
+    "uuid": [
+        {
+            "value": "483f2699-79ad-4d26-b836-499f5d942728"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "zxx",
+            "lang": "zxx"
+        }
+    ],
+    "vid": [
+        {
+            "target_id": "tags"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2023-01-16T16:02:33+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/rest\/relation\/taxonomy_term\/tags\/revision_user": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/user\/0?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "5d62202c-ccef-42f4-8437-a95aad3e8622"
+                    }
+                ]
+            }
+        ],
+        "https:\/\/8080-melanieags-tarea2-epuaerkon6z.ws-us100.gitpod.io\/rest\/relation\/taxonomy_term\/tags\/parent": [
+            null
+        ]
+    },
+    "revision_log_message": [
+        {
+            "value": "Causa distineo ratis sit vereor. Causa eros praesent quae similis. Bene camur ille tum ulciscor. Acsi appellatio cogo eligo nimis populus secundum wisi. Accumsan enim esse gravis letalis melior nunc tation usitas utinam. Defui iriure luptatum secundum. Euismod iriure loquor molior quae similis vereor. Aliquam appellatio huic iusto jumentum molior pertineo saepius suscipit turpis.\n\nBene blandit ille iusto. Euismod lenis mos nibh olim populus veniam. Aliquam cui erat incassum olim tincidunt. Adipiscing aptent autem humo neo similis sit utinam valetudo. Capto commoveo cui esca lucidus quibus ulciscor vero vulpes. Abbas accumsan gilvus suscipere te vero.\n\nAppellatio huic macto occuro paulatim vindico. Ex facilisis incassum inhibeo jus mos os premo ratis secundum. Luctus paratus pneum scisco sed. Eum iriure iusto neo paulatim quidne saluto usitas. At exputo lobortis luptatum.\n\nCommodo volutpat ymo. Abigo jus ratis. Blandit consequat ex molior similis utinam vel vindico ymo. Autem ideo odio si. Camur consequat quidne quis te.\n\nAbigo antehabeo caecus ex huic inhibeo jugis usitas. Abbas elit gravis letalis loquor lucidus nobis quidem si uxor. Cui esse eu gilvus gravis haero nisl obruo ut utrum. Blandit causa defui gilvus jumentum saepius. Iaceo natu neo persto secundum ymo.\n\nAbluo caecus huic meus. Inhibeo natu nibh usitas. Jumentum magna paulatim sagaciter tego wisi. Abigo dolus illum nimis premo. Ad hos uxor. Esca oppeto plaga rusticus valde. Adipiscing aliquam erat euismod eum nibh nutus plaga quia si. Luctus paratus pertineo quidem validus. Adipiscing capto causa esca ibidem veniam.\n\nCui meus volutpat. Causa consectetuer fere genitus iaceo jumentum lenis pagus premo torqueo. Cui secundum vulpes. Caecus defui et eu pertineo. Aliquip amet et genitus olim paulatim valetudo wisi.\n\nIncassum loquor pagus quae ulciscor utrum. Causa esse genitus paratus praemitto. Erat gilvus lucidus typicus vero. Aliquam blandit causa esse eum illum immitto sit suscipere wisi. Consectetuer ideo quis vindico. Ille nimis utinam vicis vindico. Abigo consequat elit feugiat sit typicus.\n\nAliquip distineo luptatum saepius. Autem capto esse eum interdico quia saluto suscipit verto. Dolor mos saepius vel ymo. Defui euismod fere gravis plaga refoveo typicus valetudo vicis ymo. Antehabeo dignissim fere ille laoreet lucidus populus sagaciter volutpat. Causa dolus eligo in uxor. Occuro proprius similis tego volutpat.\n\nAbigo diam euismod immitto luctus proprius singularis suscipere torqueo. Commoveo dolor meus natu nutus volutpat ymo. Elit eros facilisis jus premo tego validus vulputate. Eros gilvus jumentum macto. Huic humo illum lenis minim nutus si. Eum exerci facilisis ibidem inhibeo. Commoveo eu huic ibidem illum incassum nostrud sino tation torqueo. Iaceo quidne virtus.\n\nAbico dolor dolore euismod fere ibidem laoreet meus nimis saluto. Duis iaceo quibus valetudo. Gemino hos probo sit suscipit. Abigo augue decet esse in modo nostrud saepius si tego.\n\nEuismod hos tego validus. Autem exerci exputo molior praesent verto zelus. Cui fere letalis persto qui typicus ullamcorper vicis. Huic nobis tamen vulpes. Autem diam eros genitus modo nibh nobis singularis tego ulciscor. Caecus duis minim mos ullamcorper. Huic iusto qui. Aliquip decet dolore esca hendrerit hos imputo. Abluo commoveo fere gravis pertineo singularis ut vicis ymo.\n\n"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/abbas-causa-genitus.",
+            "pid": 6,
+            "langcode": "zxx",
+            "lang": "zxx"
+        }
+    ]
+}
